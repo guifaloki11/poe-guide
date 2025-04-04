@@ -4,7 +4,6 @@
 
 **(Criado pela Guilda Echoes of Wraeclast)**
 ## Apresentação
-
 Bem-vindo, Exilado!
 
 Este Guia de Path of Exile 2 foi elaborado pela guilda **Echoes of Wraeclast** com o objetivo de desmistificar a jornada por Wraeclast. Compilamos informações de diversas fontes confiáveis – incluindo documentação oficial (quando disponível), testes da comunidade, guias de criadores de conteúdo e nossa própria experiência – para apresentar os conceitos do jogo de forma concisa e didática.
@@ -14,7 +13,7 @@ Path of Exile 2 é conhecido por sua profundidade e complexidade, mas não se in
 Lembre-se que Path of Exile 2 é um jogo em desenvolvimento (durante o Early Access), e algumas informações podem mudar. Manteremos este guia atualizado conforme possível.
 
 Esperamos que este guia seja um companheiro valioso em suas aventuras. Seu feedback é muito bem-vindo para aprimorarmos este material continuamente! Se você se identifica com nosso espírito colaborativo e deseja se juntar à guilda **Echoes of Wraeclast**, entre em contato com **`baltras.`** no Discord.
-
+![Pasted image 20250404010626.png](/img/user/ANEXOS/Pasted%20image%2020250404010626.png)
 *Prepare-se para Dominar Wraeclast!*
 
 ---

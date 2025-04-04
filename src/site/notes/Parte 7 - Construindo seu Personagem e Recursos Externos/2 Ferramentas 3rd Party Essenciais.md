@@ -7,7 +7,7 @@
 Path of Exile 2, assim como seu predecessor, é um jogo complexo com muitas camadas. Felizmente, a comunidade desenvolve diversas ferramentas externas (`3rd Party Tools`) que podem auxiliar enormemente no planejamento, na jogabilidade e no acesso à informação. Utilizar essas ferramentas pode fazer uma grande diferença na sua experiência.
 
 *Nota: A disponibilidade e funcionalidade exata dessas ferramentas podem variar durante o Early Access e após o lançamento oficial de PoE 2. Sempre verifique se está usando a versão mais recente e compatível.*
-
+![Pasted image 20250404010457.png](/img/user/ANEXOS/Pasted%20image%2020250404010457.png)
 #### A. Planejamento de `Builds` e `Skills`
 
 *   **`Path of Building` (PoB) - Community Fork para PoE 2:**
